@@ -7,7 +7,10 @@ git clone https://github.com/AntWANLAN/ESGI_CTF_2023_discord_bot
 
 Go to the cloned folder and then:
 ```
+# Initialise the NodeJS application
 npm init
+
+# Install dependencies
 npm install discord.js
 ```
 
