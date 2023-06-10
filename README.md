@@ -22,7 +22,7 @@ Configure your bot like that:
 Invite your bot to your Discord server:
 `https://discord.com/oauth2/authorize?client_id=<your_discord_bot_id>&permissions=8&scope=bot`
 
-Update your `index.js` file and replace `<your_discord_id>` and `<your_bot_token>`.
+Update the `index.js` file and replace `<your_discord_id>` and `<your_bot_token>`.
 
 Run the bot:
 ```
