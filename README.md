@@ -33,5 +33,5 @@ Update the `index.js` file and replace `<your_discord_id>` and `<your_bot_token>
 
 Run the bot
 ```
-node injex.js
+node index.js
 ```
