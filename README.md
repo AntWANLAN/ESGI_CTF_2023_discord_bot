@@ -1,18 +1,17 @@
 # ESGI_CTF_2023_discord_bot
 
-Clone this repository:
-```
-git clone https://github.com/AntWANLAN/ESGI_CTF_2023_discord_bot
-```
+## Description
+This bot is replying to every message sent by the ID set in the `index.js` file at `<your_discord_id>`.
 
-Go to the cloned folder and then:
-```
-# Initialise the NodeJS application
-npm init
+## Setup
+Clone this repository
+`git clone https://github.com/AntWANLAN/ESGI_CTF_2023_discord_bot`
 
-# Install dependencies
-npm install discord.js
-```
+Go to the cloned folder and init the NodeJS application
+`npm init`
+
+Install the dependencies
+`npm install discord.js`
 
 Create an application and a bot => https://discord.com/developers/docs/getting-started
 
@@ -25,6 +24,4 @@ Invite your bot to your Discord server:
 Update the `index.js` file and replace `<your_discord_id>` and `<your_bot_token>`.
 
 Run the bot:
-```
-node injex.js
-```
+`node injex.js`
