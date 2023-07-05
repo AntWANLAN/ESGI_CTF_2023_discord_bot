@@ -29,9 +29,9 @@ Invite your bot to your Discord server
 https://discord.com/oauth2/authorize?client_id=<your_discord_bot_id>&permissions=8&scope=bot
 ```
 
-Update the `index.js` file by replacing `<your_discord_id>` and `<your_bot_token>`.
+Update the `index.js` file by replacing `<your_discord_id>` and `<your_bot_token>`
 
-Update the `package.json` file by adding `"type" : "module",`.
+Update the `package.json` file by adding `"type" : "module"`
 
 Run the bot
 ```
